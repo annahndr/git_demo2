@@ -2,7 +2,7 @@
 
 type markdown
 
-Short description
+### Short description
 
 Instructions
 (1) git clone
